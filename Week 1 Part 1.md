@@ -4,6 +4,8 @@ Introduction to the Lesson
 
 # Lesson Outline #
 
+Chapter 2.1-2.5
+
 ## Intro ##
 
 -Description

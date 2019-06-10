@@ -11,7 +11,7 @@ Introduction to the Lesson
 
 ## Learning Outcomes ##
 
-Bulletted list of thigns the student can expect to learn from the lesson
+Bulletted list of things the student can expect to learn from the lesson
 
 ## Vocabulary ##
 
