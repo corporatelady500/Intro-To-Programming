@@ -2,7 +2,7 @@
 
 Name of the project
 
-# Assignment Outline #
+# Assignmtn Outline #
 
 ## Intro ##
 
