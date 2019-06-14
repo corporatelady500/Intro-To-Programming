@@ -4,6 +4,10 @@ Introduction to the Lesson
 
 # Lesson Outline #
 
+Python Programming an Introduction to Computer Science by John Zelle. Third Edition
+
+Chapter 5.1-5.3
+
 ## Intro ##
 
 -Description

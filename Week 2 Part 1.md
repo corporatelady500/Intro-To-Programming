@@ -1,21 +1,33 @@
 # Lesson Number
 
-Introduction to the Lesson
+Are you a python master yet? No worries we are going to start diving into a lot more complex topics and getting you Python ready.
 
 # Lesson Outline #
 
+Python Programming an Introduction to Computer Science by John Zelle. Third Edition
+
+Chapter 3.1-3.4 Pages 57-71
+
 ## Intro ##
 
--Description
--Overview of what will be taught
+Today we are going to cover numbers! In Python and other programming languages you create variables with types. Today we will cover all of the types that include numbers. There are many types of numbers. For example, there are decimals, large numbers, small members, exponents, square roots, etc... Today we will go over the different number data types and what mathematical processes you can do with the numbers.
 
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the lesson
+- Understand what is a data type and when you use them
+- Understand multiple data types for numbers and be able to use them in mathematical equations
+- Understand what the Python Math Library is, be able to implement it in a project, and use it efficiently
+- Be able to process mathematical equations 
 
 ## Vocabulary ##
 
-Little dictionary of key terms and their meanings
+- Data Type
+- Operator
+- Operation
+- Type Conversions
+- Rounding
+- Python Library
+- Factorials
 
 ## Additional Resources ##
 
