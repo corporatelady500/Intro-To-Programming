@@ -82,11 +82,65 @@ That's a quick look at what the Development Process may look like to build a Piz
 
 ## Expressions ##
 
-Show examples and explanation of what's happening
+Before we get started please read pages 31-41 in the book.
 
-Get them started using google collaborative to start writing their own code!
+Now that you have a basic understanding of expressions we will touch on the most important parts then do a couple of examples together to cement your understanding of expressions and assigning values to variables.
 
-Practice together writing code to create modify and process simple expressions
+*Data Types* In this lesson we are going to cover two different data types numbers and strings. We will cover many other data types but to get started we will just do these two. *Numbers* Numbers encompass all numbers that you can think of whether that be whole numbers like 8 or decimals like 1.2. *Strings* Strings are the way we represent text in code. This whole lesson is just one big string! Strings can include numbers as well, in python a string is anything that is surrounding be quotes. We will go over some examples a little further down.
+
+*Variables* This is the bread and butter of any programming language. Variables are how we store data to be used in our program. Thinking back to our pizza delivery app we would create variables for every type of data that we need to gather. With the login screen we would need to have a variable for the username and password that the user enters. Those variables would be of the data type string. All variables have a data type, for today we will use examples of numbers and string. When we name variables we should do our best to name them for what kind of data they will contain. If you were to capture a string for your favorite color you might want to name it favoriteColor. Note that in variable names a common convention is to capitalize the first letter of every word after the first. This makes it easy to read the whole variable name.
+
+*Expressions* We can use our different variables to create expressions. Maybe we want to combine two different string variables, or we may want to do some simple math with our variables. Let's check out some examples.
+
+*Examples*
+
+```python
+firstName = "Elon"
+lastName = "Musk"
+fullName = firstName + lastName
+print(fullName)
+```
+Here we created three different variables firstName, lastName, and fullName. We assign the variable a value by using the = symbol. After the =  we give the value. Since names are strings we wrap the value in the quotes. With the fullName variable we used something called string concatenation. It takes our first two variables and puts them together. The result would be "ElonMusk". Lastly we print our variable to the console which allows us to check to make sure our code is running as expected. 
+
+```python
+firstNumber = 8
+secondNumber = 2
+print(firstNumber * secondNumber)
+```
+
+Two variables have been created each holding a number. Inside the print statement some simple math is done. The console will print 16.
+
+```python
+firstNumber = 8
+secondNumber = 2
+thirdNumber = firstNumber + secondNumber
+```
+
+Using the two variable from earlier you can create another variable from those two numbers to create somethign new.
+
+```python
+firstNumber = 8
+firstNumber = firstNumber + 1
+```
+
+With one variable you can use it again to update its value. After this code is completed firstNumber would be 9.
+
+```python
+age = input("Enter your age: ")
+```
+
+Using the keyword input you are able to gather information from the user. After running this code you will be prompted to type in a response. After entering a response that data is stored in the variable age.
+
+## Getting you started in an IDE ##
+
+Now that you've seen some code let's get you going with writing your own code. When we write code we do so in an IDE or Integrated Development Environment. The IDE will be helpful and show you errors in your code and help with color coding your code as well. In this class we will cover two different IDE's you are welcome to use whichever one you find easier to use.
+
+*Google Coloborative* is a great way to be able to code from anywhere and have it stored online for you. You access Google Coloborative from your browser. All of your work is saved in your google drive. The link to get started is https://colab.research.google.com/. Occasionally the assignments in this class will be a worksheet from Google Coloborative so it will be good to be familiar with it. 
+
+*PyCharm* is the standard IDE for python developers. It is currently installed on your machine. All you need to do it open it up and start a new project! Note that your PyCharm projects won't be saved online and you will only have access to them while you are on the current machine you are using.
+
+If you want some help setting up your IDE ask the teacher or check out these videos or Google Colab https://www.youtube.com/watch?v=inN8seMm7UI, for using a local IDE such as Pycharm https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP
+
 
 # Assignment #
 
