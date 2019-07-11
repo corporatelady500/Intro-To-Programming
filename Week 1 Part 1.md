@@ -54,31 +54,31 @@ We are going to work through a project idea together. Start to think about a pro
 
 Our project is a Pizza Delivery Service for the MTech culinary program. Keep in mind this project is hypothetical, but try to think of it as a real life project.
 
-1. Analyse the Problem
+1. Analyze the Problem
 
 The Culinary Department makes great pizza but has no way for companies or people to order the pizza without coming into the cafeteria in person. They have the students willing to make the pizza and deliver it. 
 
 2. Determine Specifications
 
-To solve the problem we will create a mobile app that companies or people can order pizza, as well as have an interface for Mtech to be able to respond to orders. We will have to be able to login as a customer or as MTech. As a customer we need to be able to create an order, pay for the order, see where the delivery man is with up to date progress on the pizza, and give a review! As Mtech we need to be able to recieve orders, recieve payment, respond to reviews, give updates on the progress of the pizza, and manage their menu. Phew good thing we are not actually going to build this app it sounds like it will be a lot of work!
+To solve the problem we will create a mobile app that companies or people can order pizza, as well as have an interface for Mtech to be able to respond to orders. We will have to be able to login as a customer or as MTech. As a customer we need to be able to create an order, pay for the order, see where the delivery man is with up to date progress on the pizza, and give a review! As Mtech we need to be able to receive orders, receive payment, respond to reviews, give updates on the progress of the pizza, and manage their menu. Phew good thing we are not actually going to build this app it sounds like it will be a lot of work!
 
 3. Create a Design
 
-Time to start thinking about what this app is going to look like! How will they login, will they use Facebook, Google, Apple, etc... In this step we would draw out each screen and determine how a user would navigate throught the application. What algorithms or services may we need to make each aspect of the application doable. Since we are just getting started I want you to think about how the application will look. Don't worry right now about what algorithms you will use to accomplish the task. 
+Time to start thinking about what this app is going to look like! How will they login, will they use Facebook, Google, Apple, etc... In this step we would draw out each screen and determine how a user would navigate through the application. What algorithms or services may we need to make each aspect of the application doable. Since we are just getting started I want you to think about how the application will look. Don't worry right now about what algorithms you will use to accomplish the task. 
 
 4. Implement the Design
 
-This step is where you start to write the code. This is the longest step in the process. Every little aspect of the application needs code behind it. As programmers we don't touch step three very often, in most cirumstances there will be a designer who will think through that step for you. Our job is to create the application as close to the design as possible. Let's just think about a login page as an example. What colors will be used? How will the user enter their information? How will we manage the keyboard? If we are using a third party service, how do we interact with Facebook, Google, or Apple? If the user name is already taken, how will we know? How will we notify the user that their username is taken? There is a lot that goes into every aspect of a program it's your job to think through all of it. Programmers always say that they last 10% of the project takes just as long as the first 90%
+This step is where you start to write the code. This is the longest step in the process. Every little aspect of the application needs code behind it. As programmers we don't touch step three very often, in most circumstances there will be a designer who will think through that step for you. Our job is to create the application as close to the design as possible. Let's just think about a login page as an example. What colors will be used? How will the user enter their information? How will we manage the keyboard? If we are using a third party service, how do we interact with Facebook, Google, or Apple? If the user name is already taken, how will we know? How will we notify the user that their username is taken? There is a lot that goes into every aspect of a program it's your job to think through all of it. Programmers always say that they last 10% of the project takes just as long as the first 90%
 
 5. Test / Debug the Program
 
-Okay so we have written our code and our program is perfect and ready to go right? No, we aren't perfect there will always be errors. Never in your life will you write a perfect codebase and that's okay, it's expected! It is critical to test our program. Can you break it? What if I order 1,000 pizzas how will the system manage that? Should I be allowed to do that? 
+Okay so we have written our code and our program is perfect and ready to go right? No, we aren't perfect there will always be errors. Never in your life will you write a perfect code base and that's okay, it's expected! It is critical to test our program. Can you break it? What if I order 1,000 pizzas how will the system manage that? Should I be allowed to do that? 
 
 6. Maintain the Program
 
-New technologies are always coming out, there is always something new that you can add to the program. MTech may decide that their pizza delivery service is booming and wants to expand it to their Turkey Bacon Avocados sandwhiches (Mmm delicious 10/10 would recommend). Perhaps Facebook, Google, or Apple changed the way their login works and we need to update our code to match the new way to do. While a codebase may be great to start overtime there will be things that need to change. Updates are crucial to the success of a program. No program is done when it orignially hits production, there are always changes that have to happenf for the success of the program.
+New technologies are always coming out, there is always something new that you can add to the program. MTech may decide that their pizza delivery service is booming and wants to expand it to their Turkey Bacon Avocados sandwiches (Mmm delicious 10/10 would recommend). Perhaps Facebook, Google, or Apple changed the way their login works and we need to update our code to match the new way to do. While a code base may be great to start overtime there will be things that need to change. Updates are crucial to the success of a program. No program is done when it originally hits production, there are always changes that have to happen for the success of the program.
 
-That's a quick look at what the Development Process may look like to build a Pizza Delivery App for MTech Culinary department. This whole process may takes years to follow through and do effectively. A reminder to start thinking of what kind of project you want to think through after this lesson in the assignment.
+That's a quick look at what the Development Process may look like to build a Pizza Delivery App for the MTech Culinary department. This whole process may takes years to follow through and do effectively. A reminder to start thinking of what kind of project you want to think through after this lesson in the assignment.
 
 ## Expressions ##
 
@@ -116,7 +116,7 @@ secondNumber = 2
 thirdNumber = firstNumber + secondNumber
 ```
 
-Using the two variable from earlier you can create another variable from those two numbers to create somethign new.
+Using the two variable from earlier you can create another variable from those two numbers to create something new.
 
 ```python
 firstNumber = 8
@@ -135,7 +135,7 @@ Using the keyword input you are able to gather information from the user. After 
 
 Now that you've seen some code let's get you going with writing your own code. When we write code we do so in an IDE or Integrated Development Environment. The IDE will be helpful and show you errors in your code and help with color coding your code as well. In this class we will cover two different IDE's you are welcome to use whichever one you find easier to use.
 
-*Google Coloborative* is a great way to be able to code from anywhere and have it stored online for you. You access Google Coloborative from your browser. All of your work is saved in your google drive. The link to get started is https://colab.research.google.com/. Occasionally the assignments in this class will be a worksheet from Google Coloborative so it will be good to be familiar with it. 
+*Google Collaborative* is a great way to be able to code from anywhere and have it stored online for you. You access Google Collaborative from your browser. All of your work is saved in your Google drive. The link to get started is https://colab.research.google.com/. Occasionally the assignments in this class will be a worksheet from Google Collaborative so it will be good to be familiar with it. 
 
 *PyCharm* is the standard IDE for python developers. It is currently installed on your machine. All you need to do it open it up and start a new project! Note that your PyCharm projects won't be saved online and you will only have access to them while you are on the current machine you are using.
 
@@ -144,12 +144,12 @@ If you want some help setting up your IDE ask the teacher or check out these vid
 
 # Assignment #
 
-Link to the google collaborator for the assignment
+The first part of your Assignment is to create your own development process for a project of your own. Think of a project it can be something that already exists or something that you want to create one day. Create a text document that walks through each step. For reference you can see the example in this lesson or read section 2.2 on page 28 in the book.
 
-Example of how to do get the assignment and create their own
+The second part of your assignment is to do the worksheet found in Google Collaborative. Here is the link. Create a copy of it and answer all of the questions. https://colab.research.google.com/drive/1HSUjokXr73p48mfPT8ZMEwbf2sz2MWBj
 
-Instructions on how to turn it in
+Turn in both documents on Canvas.
 
 ## Recap ##
 
-Congratulations you finished your first lesson in coding! You've learned a little bit about the software development process. You should be able to think about each step and what needs to be done on each step. You wrote your first lines of code! You should be able to create a simple variable. As well you should be able to recieve input from the keyboard and give output as well! Well done! 
+Congratulations you finished your first lesson in coding! You've learned a little bit about the software development process. You should be able to think about each step and what needs to be done on each step. You wrote your first lines of code! You should be able to create a simple variable. As well you should be able to receive input from the keyboard and give output as well! Well done! 
