@@ -37,6 +37,8 @@ Example of how to do get the assignment and create their own
 
 Instructions on how to turn it in
 
+https://colab.research.google.com/drive/1B31sg6YFQL2LKroHzl0hts-GRYrebTDT
+
 ## Recap ##
 
 TLDR of the lesson
