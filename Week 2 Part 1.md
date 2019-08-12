@@ -58,12 +58,6 @@ print(answer)
 
 If you want a more in depth look at numbers and the limitations that there are with numbers in python compared to other langauges keep reading in this chapter pages 71-75.
 
-
-
 # Assignment #
 
-The second part of your assignment is to do the worksheet found in Google Collaborative. Here is the link. Create a copy of it and answer all of the questions. https://colab.research.google.com/drive/1GJav4tyz2xjzpDbMvwchmiihrzOYgHHn
-
-## Recap ##
-
-TLDR of the lesson
+Your assignment is to do the worksheet found in Google Collaborative. Here is the link. Create a copy of it and answer all of the questions. https://colab.research.google.com/drive/1GJav4tyz2xjzpDbMvwchmiihrzOYgHHn
