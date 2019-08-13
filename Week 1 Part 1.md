@@ -1,4 +1,4 @@
-# Lesson Number 1.1
+# Lesson Number 1.1 Python
 
 Your first day of Python! Have an open mind and let's get started.
 

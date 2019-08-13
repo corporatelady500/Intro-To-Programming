@@ -1,4 +1,4 @@
-# Lesson Number 2.1
+# Lesson Number 2.1 Numbering
 
 # Lesson Outline #
 

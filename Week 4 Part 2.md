@@ -1,4 +1,4 @@
-# Lesson Number 4.2
+# Lesson Number 4.2 Functions
 
 # Lesson Outline #
 

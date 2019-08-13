@@ -1,4 +1,4 @@
-# Lesson Number 1.2
+# Lesson Number 1.2 Loops
 
 # Lesson Outline #
 

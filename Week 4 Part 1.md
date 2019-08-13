@@ -1,4 +1,4 @@
-# Lesson Number 4.1
+# Lesson Number 4.1 Functions
 
 # Lesson Outline #
 
@@ -8,16 +8,16 @@ Chapter 6.1-6.3
 
 ## Intro ##
 
--Description
--Overview of what will be taught
+Today we are covering functions. A function is a way to repeat code without writing it over and over again. Being able to utilize functions will aide you in being able to keep your programs easy to write and read.
 
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the lesson
+- Be able to describe what a function is and write one
+- Be able to think about a program as a whole and break into easy chunks
 
 ## Vocabulary ##
 
-Little dictionary of key terms and their meanings
+- Functions
 
 ## Additional Resources ##
 
@@ -25,7 +25,9 @@ Links to videos and examples that they can go to in order to learn more
 
 # Lesson #
 
-Subject Matter. What they need to know
+Read Pages 175-183
+
+
 
 # Assignment #
 

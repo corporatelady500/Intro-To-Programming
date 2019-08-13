@@ -1,4 +1,4 @@
-# Lesson Number 3.1
+# Lesson Number 3.1 Classes
 
 # Lesson Outline #
 

@@ -1,4 +1,4 @@
-# Lesson Number 2.2
+# Lesson Number 2.2 Strings, Lists
 
 # Lesson Outline #
 
