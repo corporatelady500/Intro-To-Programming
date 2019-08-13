@@ -29,7 +29,9 @@ In the last lesson we learned about numbers. How to manipulate them and the diff
 
 ## Additional Resources ##
 
-Links to videos and examples that they can go to in order to learn more
+- https://app.pluralsight.com/player?course=python-fundamentals&author=austin-bingham&name=python-fundamentals-m02-strings&clip=0&mode=live
+- https://app.pluralsight.com/player?course=python-fundamentals&author=robert-smallshire&name=python-fundamentals-m05-collections&clip=0&mode=live
+- https://www.youtube.com/watch?v=tw7ror9x32s&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=4
 
 # Lesson #
 

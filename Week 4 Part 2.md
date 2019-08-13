@@ -21,7 +21,8 @@ Little dictionary of key terms and their meanings
 
 ## Additional Resources ##
 
-Links to videos and examples that they can go to in order to learn more
+- https://app.pluralsight.com/player?course=python-getting-started&author=bo-milanovich&name=python-getting-started-m3&clip=0&mode=live
+- https://www.youtube.com/watch?v=NSbOtYzIQI0&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=3
 
 # Lesson #
 

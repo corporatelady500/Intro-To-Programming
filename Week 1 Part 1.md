@@ -36,6 +36,10 @@ Welcome to Intro To Programming! We are going to jump right in to writing some c
 
 - Need help setting up your work environment to start writing Python check out some of these options. For Google Colab https://www.youtube.com/watch?v=inN8seMm7UI, for using a local IDE such as Pycharm https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP
 
+- https://app.pluralsight.com/player?course=python-fundamentals&author=austin-bingham&name=python-fundamentals-m00-welcome&clip=0&mode=live
+
+- https://app.pluralsight.com/player?course=python-fundamentals&author=robert-smallshire&name=python-fundamentals-m01-starting&clip=0&mode=live
+
 # Lesson #
 
 ## Software Development Process ##

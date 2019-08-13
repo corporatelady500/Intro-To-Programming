@@ -26,7 +26,8 @@ Today you'll be learning about loops! Loops are an essential part of any program
 
 ## Additional Resources ##
 
-Links to videos and examples that they can go to in order to learn more
+- https://www.youtube.com/watch?v=OnDr4J2UXSA
+- https://www.youtube.com/watch?v=6iF8Xb7Z3wQ
 
 # Lesson #
 

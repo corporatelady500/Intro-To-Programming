@@ -29,7 +29,8 @@ Today we are going to cover numbers! In Python and other programming languages y
 
 ## Additional Resources ##
 
-Links to videos and examples that they can go to in order to learn more
+- https://www.youtube.com/watch?v=khKv-8q7YmY
+- https://www.youtube.com/watch?v=_87ASgggEg0
 
 # Lesson #
 

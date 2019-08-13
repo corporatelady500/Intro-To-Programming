@@ -27,7 +27,10 @@ Today we will jump into something new and different. An important part of writin
 
 ## Additional Resources ##
 
-Links to videos and examples that they can go to in order to learn more
+- https://app.pluralsight.com/player?course=python-fundamentals&author=austin-bingham&name=python-fundamentals-m04-objects&clip=0&mode=live
+- https://app.pluralsight.com/player?course=python-fundamentals&author=austin-bingham&name=python-fundamentals-m08-classes&clip=0&mode=live
+- https://app.pluralsight.com/player?course=python-getting-started&author=bo-milanovich&name=python-getting-started-m4&clip=0&mode=live
+- Part 1 https://www.youtube.com/watch?v=wfcWRAxRVBA&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=9 Part 2 https://www.youtube.com/watch?v=WOwi0h_-dfA&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=10
 
 # Lesson #
 
