@@ -1,7 +1,5 @@
 # Lesson Number
 
-Introduction to the Lesson
-
 # Lesson Outline #
 
 ## Intro ##
