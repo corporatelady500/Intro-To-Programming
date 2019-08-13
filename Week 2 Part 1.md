@@ -1,6 +1,4 @@
-# Lesson Number
-
-Are you a python master yet? No worries we are going to start diving into a lot more complex topics and getting you Python ready.
+# Lesson Number 2.1
 
 # Lesson Outline #
 

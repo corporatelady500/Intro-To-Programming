@@ -1,6 +1,4 @@
-# Lesson Number
-
-You've gotten your first taste of Python. Today we are gonna dive into writing some more code and getting you started on your programming journey.
+# Lesson Number 1.2
 
 # Lesson Outline #
 

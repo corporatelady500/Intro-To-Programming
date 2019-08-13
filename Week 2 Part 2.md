@@ -1,6 +1,4 @@
-# Lesson Number
-
-Introduction to the Lesson
+# Lesson Number 2.2
 
 # Lesson Outline #
 
