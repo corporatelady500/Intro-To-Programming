@@ -15,7 +15,6 @@ You will be working through the exercises at the end of chapter 6.
 1. Write definitions for these functions:
 sphereArea(radius)  Returns the surface area of a sphere having the
 given radius.
-
 sphereVolume(radius)   Returns the volume of a sphere having the given
 radius.
 Use your functions to solve Programming Exercise 1 from Chapter 3.
