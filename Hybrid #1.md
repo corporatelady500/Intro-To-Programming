@@ -1,27 +1,26 @@
-# Hyrbid Assignment
+# Hybrid Assignment Getting to know Python
 
-Name of the project
-
-# Assignmtn Outline #
+# Assignment Outline #
 
 ## Intro ##
 
--Description
--Overview of the project
+We are going back to the very basics of computers. Take the chance to learn something new and gain a deeper understanding of the fundamentals.
 
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the assignment
+- Be able to describe the difference between hardware and software
+- Be able to describe the basic design of computers
+- Be able to describe what a programming language is and how they work
+- Be able to use Python!
 
-# Assignemnt #
+# Assignment #
 
-What do they have to do. 
+Read all of Chapter one in the book Python Programming an Introduction to Computer Science by John Zelle. 
+
+After reading the whole chapter write a one page summary of what you learned. This can by types or handwritten. Write full and complete sentences. Look at the learning outcomes for topics that you can write on if you are struggling on what to write on.
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+This assignment will be completion based. Turning in the paper is saying that you read the chapter and understand it.
 
-## Recap ##
-
-TLDR of the Assignment
 

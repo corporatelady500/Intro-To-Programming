@@ -1,6 +1,4 @@
-# Hyrbid Assignment
-
-Name of the project
+# Hyrbid Assignment Imposter Syndrome
 
 # Assignmtn Outline #
 
