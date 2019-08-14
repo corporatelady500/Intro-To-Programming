@@ -14,6 +14,7 @@ You will be working through the exercises at the end of chapter 6.
 1. Write a program to print the lyrics of the song "Old MacDonald." Your
 program should print the lyrics for five different animals, similar to the
 example verse below.
+
 Old MacDonald had a farm, Ee-igh, Ee-igh, Oh!
 And on that farm he had a cow, Ee-igh, Ee-igh, Oh!
 With a moo, moo here and a moo, moo there.
@@ -23,6 +24,7 @@ Old MacDonald had a farm, Ee-igh, Ee-igh, Oh!
 " A couple of sample verses are given below. You may choose your own
 activity for the "little one" in each verse, but be sure to choose something
 that makes the rhyme work (or almost work) .
+
 The ants go marching one by one, hurrah! hurrah!
 The ants go marching one by one, hurrah! hurrah!
 The ants go marching one by one,
