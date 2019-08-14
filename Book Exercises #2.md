@@ -45,39 +45,51 @@ distance= .j(x2- x1)2 + (y2- y1)2
 
 ## Complete ONE of the following exercises: ##
 
-11. Write a program to find the sum of the first n natural numbers, where the
+1. Write a program to find the sum of the first n natural numbers, where the
 value of n is provided by the user.
-12. Write a program to find the sum of the cubes of the first n natural numbers
+2. Write a program to find the sum of the cubes of the first n natural numbers
 where the value of n is provided by the user.
-13. Write a program to sum a series of numbers entered by the user. The
+3. Write a program to sum a series of numbers entered by the user. The
 program should first prompt the user for how many numbers are to be
 summed. The program should then prompt the user for each of the numbers
 in turn and print out a total sum after all the numbers have been
 entered. Hint: Use an input statement in the body of the loop.
-14. Write a program that finds the average of a series of numbers entered by
+4. Write a program that finds the average of a series of numbers entered by
 the user. As in the previous problem, the program will first ask the user
 how many numbers there are. Note: The average should always be a float,
 even if the user inputs are all ints.
-15. Write a program that approximates the value of pi by summing the terms
+5. Write a program that approximates the value of pi by summing the terms
 of this series: 4/1- 4/3 + 4/5- 4/7 + 4/9- 4/11 + . . . The program should
 prompt the user for n, the number of terms to sum, and then output the
 sum of the first n terms of this series. Have your program subtract the
 approximation from the value of math. pi to see how accurate it is.
 
-## Complete TWO of the following exercises: ##
+## Complete ONE of the following exercises: ##
 
-9. Write a program that converts temperatures from Fahrenheit to Celsius.
-10. Write a program that converts distances measured in kilometers to miles.
-One kilometer is approximately 0.62 miles.
-11. Write a program to perform a unit conversion of your own choosing. Make
-sure that the program prints an introduction that explains what it does.
-12. Write an interactive Python calculator program. The program should allow
-the user to type a mathematical expression, and then print the value of the
-expression. Include a loop so that the user can perform many calculations
-(say, up to 100). Note: To quit early, the user can make the program
-crash by typing a bad expression or simply closing the window that the
-calculator program is running in. You'll learn better ways of terminating
-interactive programs in later chapters.
+1. As discussed in the chapter, string formatting could be used to simplify the
+dateconvert2 . py program. Go back and redo this program making use
+of the string-formatting method.
+2. A certain CS professor gives 5-point quizzes that are graded on the scale
+5-A, 4-B, 3-C, 2-D, 1-F, 0-F. Write a program that accepts a quiz score as
+an input and prints out the corresponding grade.
+3. A certain CS professor gives 100-point exams that are graded on the scale
+90- 100:A, 80-89:B, 70-79:C, 60-69:D, <60:F. Write a program that accepts
+an exam score as input and prints out the corresponding grade.
+
+## Complete ONE of the following exercises: ##
+
+1. An acronym is a word formed by taking the first letters of the words in a
+phrase and making a word from them. For example, RAM is an acronym
+for "random access memory." Write a program that allows the user to
+type in a phrase and then outputs the acronym for that phrase. Note : The
+acronym should be all uppercase, even if the words in the phrase are not
+capitalized.
+2. Numerologists claim to be able to determine a person's character traits
+based on the "numeric value" of a name. The value of a name is determined
+by summing up the values of the letters of the name where "a" is
+1 "b" is 2 "c" is 3 up to "z" being 26 For example the name "Zelle" would have the value 26 + 5 + 12 + 12 + 5 = 60 (which happens to be a
+very auspicious number, by the way). Write a program that calculates the
+numeric value of a single name provided as input.
 
 # Rubric #
 
