@@ -52,7 +52,7 @@ To review the code above. On the first line we create a list with every day of t
 The second line of code we ask the user to input a number for which day of the week they want.
 On the last line of code we print out the day of the week that was selected. Note that we can access items in an array by using square brackets ([]) then putting what index you want inside the brackets ([1]). 
 
-In Python there are built in functions for data types. I want to cover one speficially for lists. *Append* when you want to add another item onto your list you can use the append function. Using the code example above we could append a fake day of the week by writing daysOfTheWeek.append("MTECHDAY"). By doing this our list when then look like ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "MTECHDAY"]. You'll get some practice using lists and the append function in the assignment for today.
+In Python there are built in functions for data types. I want to cover one specifically for lists. *Append* when you want to add another item onto your list you can use the append function. Using the code example above we could append a fake day of the week by writing daysOfTheWeek.append("MTECHDAY"). By doing this our list when then look like ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "MTECHDAY"]. You'll get some practice using lists and the append function in the assignment for today.
 
 # Assignment #
 

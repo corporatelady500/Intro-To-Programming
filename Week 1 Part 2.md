@@ -37,7 +37,7 @@ Read Pages 43-47 in the book.
 
 Loops are an essential part of programming. In this lesson we are only focusing on Definite Loops. That means that the loop will be run a set number of times. If we were to loop through every number between 1-20 the code would be run 20 times. In future lessons we will talk about other loops that are run differently.
 
-After this program and Web Development or Mobile Development you will want to start interviewing at companies for a developer job. One of the most commmon job interview questions is called FizzBuzz we are doing to put a twist on it and solve it together.
+After this program and Web Development or Mobile Development you will want to start interviewing at companies for a developer job. One of the most common job interview questions is called FizzBuzz we are doing to put a twist on it and solve it together.
 
 The question: Write a program that prints the numbers from 1 to 20. But for multiples of three print “Mountainland” instead of the number and for the multiples of five print “Technical”. For numbers which are multiples of both three and five print “Mountainland Technical College”.
 
