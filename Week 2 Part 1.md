@@ -40,7 +40,7 @@ There are two number data types that we will cover today. *Integers* are whole n
 
 Let's say we do not use the same data types, this will cause rounding issues for us. Open up your preferred way of writing python and experiment to understand how the two data types interact with each other. Multiply and divide an integer to a float and see if you get the right answer. To get a deeper understanding re-read section 3.2 pages 62 in the book. As well you can check out some of the videos in the Additional resources section of this lesson.
 
-The *Math Library* can be a powerful resourse for you to do mathematical equations with ease. In the book it showed you how to do the quadratic formula. Here we will show you how to do the pythogrean theorem using the math library. For more information on the many tools available in the math library make sure to check out the videos in the additional resources of this lesson!
+The *Math Library* can be a powerful resource for you to do mathematical equations with ease. In the book it showed you how to do the quadratic formula. Here we will show you how to do the pythogrean theorem using the math library. For more information on the many tools available in the math library make sure to check out the videos in the additional resources of this lesson!
 
 Pythagorean theorem: a^2 + b^2 = c^2 or c = Square Root of a^2 + b^2
 
@@ -55,7 +55,7 @@ answer = math.sqrt(math.pow(a,2) + math.pow(b,2))
 print(answer)
 ```
 
-If you want a more in depth look at numbers and the limitations that there are with numbers in python compared to other langauges keep reading in this chapter pages 71-75.
+If you want a more in depth look at numbers and the limitations that there are with numbers in python compared to other languages keep reading in this chapter pages 71-75.
 
 # Assignment #
 

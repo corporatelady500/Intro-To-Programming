@@ -1,25 +1,20 @@
-# Hyrbid Assignment Imposter Syndrome
+# Hybrid Assignment Interview
 
-# Assignmtn Outline #
-
-## Intro ##
-
--Description
--Overview of the project
+# Assignment Outline #
 
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the assignment
+- Be able to describe what the workplace is like for a programmer
+- Be able to talk about day to day assignments that programmers accomplish
 
-# Assignemnt #
+# Assignment #
 
-What do they have to do. 
+Your assignment is to talk to a programmer and interview them. We want you to learn what it's like to be a programmer. Sit down with someone who programs, if you are really struggling on finding a programmer come talk to the Mobile or Web class here at MTECH. 
+
+There are two parts to the assignment. First, come up with 10 questions you can ask about the career. Second, interview a programmer and write down a summary to the questions.
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+This assignment will be graded on completion. Provide a page with your 10 questions and the answers you received.
 
-## Recap ##
-
-TLDR of the Assignment
 

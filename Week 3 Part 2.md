@@ -41,7 +41,7 @@ Now is a great time to reflect on what we have learned so far in the class. I ho
 
 # Assignment #
 
-Please turn in on Canvas the three projects you did with the book. This includes the colored bar graph, three clicks triangle, and converting Celsius to Farenheit.
+Please turn in on Canvas the three projects you did with the book. This includes the colored bar graph, three clicks triangle, and converting Celsius to Fahrenheit.
 
 ## Recap ##
 

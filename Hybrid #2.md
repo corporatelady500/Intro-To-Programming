@@ -1,4 +1,4 @@
-# Hyrbid Assignment Git
+# Hybrid Assignment Git
 
 # Assignment Outline #
 
@@ -38,11 +38,11 @@
 
 # Lesson #
 
-Git is a version control system for tracking changes in files, and being able to collaborate with others to work on the same files together. This lesson will teach students how to use Git and how it is used in order to collaborate with others. It is critical in a work environment to be competent with Git. It is the primary mode in which you will submit and recieve code to craft into mobile applications.
+Git is a version control system for tracking changes in files, and being able to collaborate with others to work on the same files together. This lesson will teach students how to use Git and how it is used in order to collaborate with others. It is critical in a work environment to be competent with Git. It is the primary mode in which you will submit and receive code to craft into mobile applications.
 
 ## Repositories ##
 
-A repository is the home for your code. Changes that you make in code will be reflected in your repository for that code. All folders and files in your projects can be stored in a repository. There are many services online that you can utilitize to save your repositories. For this class, and for many people in the programming community Github will be our service that we use. So, how do we start with a repository on GitHub? All you need to start is a name, but you also will have many options to include which we will cover.
+A repository is the home for your code. Changes that you make in code will be reflected in your repository for that code. All folders and files in your projects can be stored in a repository. There are many services online that you can utilize to save your repositories. For this class, and for many people in the programming community Github will be our service that we use. So, how do we start with a repository on GitHub? All you need to start is a name, but you also will have many options to include which we will cover.
 
  ![GitHub Create Repo](https://github.com/MTechMobileDevelopment/MTech-Extra-Lessons/blob/master/Git/Resources/CreateRepo.png)
 
@@ -52,7 +52,7 @@ You get the option to make the repository public or private. With a free account
 
 In addition your repository can include a README. When possible you should create a README for all of your repositories. Consider this as an introduction to what your repository is all about. 
 
-The last two options you get are to add a .gitignore and a license. The Git Ignore is way to hide files in your repository. A good example is .DS_Store. That type of file type is a nuisance as it is created whenever you create new files and folders. Adding .DS_Store to your .gitignore is common practice. Licenses are there to protect you. For example, if you had a code base that other people are using. You will want to be acknowleged for your work, an Apache License will require anyone using your code to provide attibution to you.
+The last two options you get are to add a .gitignore and a license. The Git Ignore is way to hide files in your repository. A good example is .DS_Store. That type of file type is a nuisance as it is created whenever you create new files and folders. Adding .DS_Store to your .gitignore is common practice. Licenses are there to protect you. For example, if you had a code base that other people are using. You will want to be acknowledged for your work, an Apache License will require anyone using your code to provide attribution to you.
 
 There are millions of repositories on GitHub. The public repositories you can access and learn from. If you just want to open the project then you can download the ZIP. However, you have other options depending on what you want to do.
 
@@ -64,17 +64,17 @@ A commit is the bread and butter of Git. Think of committing as saving your code
 
 In order to create a commit you need two things. A change in a file and a commit message.
 
-While working on a project you are constantly changing code and writing new code. Anytime a file is created or adjusted it is added into a section called Unstaged Changes. When you are ready to commit you can move the files from Unstaged to Staged. When a file is in Staged Changes it is ready to be commited to the repository.
+While working on a project you are constantly changing code and writing new code. Anytime a file is created or adjusted it is added into a section called Unstaged Changes. When you are ready to commit you can move the files from Unstaged to Staged. When a file is in Staged Changes it is ready to be committed to the repository.
 
 The second thing you need is a commit message. These messages should be descriptive of what is reflected in the staged changes files. For example if you just made a change in your project to fix a bug. Your commit message could say something like "Keyboard bug fixed"
 
 __Branches__
 
-By default you are given a branch called "master". Branches are a great resource for you to organize your code and to more easily collaborate with others on your project. Branches are essentially a place to hold commits. A good seperation of commits are with features. You can start a new branch when you start working on a new feature. 
+By default you are given a branch called "master". Branches are a great resource for you to organize your code and to more easily collaborate with others on your project. Branches are essentially a place to hold commits. A good separation of commits are with features. You can start a new branch when you start working on a new feature. 
 
 It is good practice to have multiple branches. For an app that is in production it is common to have the master branch have the code that is live. A develop branch is commonly created to seperate what you are working on with what is in production. This enables developers to work in an environment where they do not need to worry about breaking code that is in production. Once code is tested on the develop branch it is merged into the master branch and put into production.
 
-Another benefit to having branches is for collaboration. Later in the lesson you will learn about merge conflicts. When you and another person are working on the same project, you don't want to be changing the same lines of code. To do this it is best to create seperate branches to work on your features.
+Another benefit to having branches is for collaboration. Later in the lesson you will learn about merge conflicts. When you and another person are working on the same project, you don't want to be changing the same lines of code. To do this it is best to create separate branches to work on your features.
 
 ## How Git interacts with Github ##
 
@@ -100,11 +100,11 @@ __Fetch__ is telling your computer to go look at the repository in GitHub to see
 
 ## Pull Requests ##
 
-When you are working on a project with other people it could become a real disaster for everyone to be commiting code to the same repository all the time. To solve issues with this we have *pull requests*. A pull request let's you commit your changes then allows a manager of the repository to either accept or deny your commits. These are commonly used for code reviews. A programmer will submit his code as a pull request then the manager will look over the code and determine whether it is ready to be merged in with the rest of the respository. 
+When you are working on a project with other people it could become a real disaster for everyone to be committing code to the same repository all the time. To solve issues with this we have *pull requests*. A pull request let's you commit your changes then allows a manager of the repository to either accept or deny your commits. These are commonly used for code reviews. A programmer will submit his code as a pull request then the manager will look over the code and determine whether it is ready to be merged in with the rest of the repository. 
 
 ## Merge Conflicts ##
 
-A __Merge Conflict__ is when you pull down code that someone else has changed and it interferes with code that you have changed. For example, if Bill changed line 24. Jane pulls down Bill's code and Jane had also changed line 24. This results in a Merge Conflict. It is always best to _pull_ before you push. That way any merge conclicts that you may enounter are handled locally.
+A __Merge Conflict__ is when you pull down code that someone else has changed and it interferes with code that you have changed. For example, if Bill changed line 24. Jane pulls down Bill's code and Jane had also changed line 24. This results in a Merge Conflict. It is always best to _pull_ before you push. That way any merge conflicts that you may encounter are handled locally.
 
 To solve a _Merge Conflict_ you choose what lines of code you want to keep. Essentially going line by line determining who's code to take. You also have the option to always take Bill's code or always take Jane's.
 
@@ -116,11 +116,13 @@ Git is crucial for every developer. Committing often and having meaningful commi
 
 There are two parts to this assignment.
 
-First, find one of the exercises you did in the book. Open up the 
+First, find one of the exercises you did in the book in pyCharm. Create a repository on Github for that exercise. Need help? Check out this link, https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+
+Second, navigate to https://github.com/alancb/Intro-To-Programming. Here is a github repo with the first four units of the class. Your job is to submit a pull request in order to make the lessons better. Is there a grammar error somewhere that really bothers you? Perhaps you found a great video to add to an additional resources page. Clone the project, create a branch, commit your change, submit the pull request. Need help check out this link, https://help.github.com/en/articles/creating-a-pull-request
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+This assignment is based on completion. In canvas submit the link to your Github Repo, and the teacher will see your pull request. 
 
 
 

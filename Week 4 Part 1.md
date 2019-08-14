@@ -32,7 +32,7 @@ Read Pages 175-183
 
 # Assignment #
 
-Link to the google collaborator for the assignment
+Link to the Google collaborator for the assignment
 
 Example of how to do get the assignment and create their own
 
