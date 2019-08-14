@@ -1,6 +1,6 @@
-# Hyrbid Assignment Imposter Syndrome
+# Hybrid Assignment Impostor Syndrome
 
-# Assignmtn Outline #
+# Assignment Outline #
 
 ## Intro ##
 
@@ -9,9 +9,9 @@
 
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the assignment
+Bulleted list of things the student can expect to learn from the assignment
 
-# Assignemnt #
+# Assignment #
 
 What do they have to do. 
 
