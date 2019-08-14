@@ -70,9 +70,6 @@ interactive programs in later chapters.
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+Each question is worth 3 points, giving a total of 15 
 
-## Recap ##
-
-TLDR of the Project
 
