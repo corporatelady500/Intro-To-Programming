@@ -150,7 +150,7 @@ If you want some help setting up your IDE ask the teacher or check out these vid
 
 The first part of your Assignment is to create your own development process for a project of your own. Think of a project it can be something that already exists or something that you want to create one day. Create a text document that walks through each step. For reference you can see the example in this lesson or read section 2.2 on page 28 in the book.
 
-The second part of your assignment is to do the worksheet found in Google Collaborative. Here is the link. Create a copy of it and answer all of the questions. https://colab.research.google.com/drive/1HSUjokXr73p48mfPT8ZMEwbf2sz2MWBj
+The second part of your assignment is to do the worksheet found in Google Collaborative. Here is the link. Create a copy of it and answer all of the questions. hhttps://colab.research.google.com/drive/1HSUjokXr73p48mfPT8ZMEwbf2sz2MWBj
 
 Turn in both documents on Canvas.
 

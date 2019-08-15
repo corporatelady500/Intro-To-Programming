@@ -49,6 +49,3 @@ Please turn in the code that you wrote with chapter thus far up until page 96.
 
 For the second part of your assignment create a landscape of your choosing using the graphics file that has been provided for you. For example you could create a sun in the sky, a large rectangle of grass, an expanse of sea, or try your hand at creating a person using all the shapes available to you. 
 
-## Recap ##
-
-TLDR of the lesson

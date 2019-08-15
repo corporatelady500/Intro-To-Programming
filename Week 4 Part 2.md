@@ -36,6 +36,3 @@ Example of how to do get the assignment and create their own
 
 Instructions on how to turn it in
 
-## Recap ##
-
-TLDR of the lesson
