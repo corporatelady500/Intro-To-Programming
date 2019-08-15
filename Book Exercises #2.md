@@ -12,8 +12,8 @@ You will be working through the exercises at the end of chapter three and five.
 
 1. Write a program to calculate the volume and surface area of a sphere from
 its radius, given as input. Here are some formulas that might be useful:
-V = 4/37rr3
-A= 47rr2
+V = 4/3πr3
+A= 4πr2
 2. Write a program that calculates the cost per square inch of a circular pizza,
 given its diameter and price. The formula for area is A = πr2
 3. Write a program that computes the molecular weight of a carbohydrate (in
@@ -22,12 +22,13 @@ atoms in the molecule. The program should prompt the user to enter the
 number of hydrogen atoms, the number of carbon atoms, and the number
 of oxygen atoms. The program then prints the total combined molecular
 weight of all the atoms based on these individual atom weights:
-Atom Weight
-(grams I mole)
-H 1.00794
-c 12.0107
-0 15.9994
-For example, the molecular weight of water (H20) is: 2(1.00794) +
+	
+	Atom 	Weight(grams I mole)
+	
+	H: 		1.00794
+	C: 		12.0107
+	O: 		15.9994
+For example, the molecular weight of water (H2O) is: 2(1.00794) +
 15.9994 = 18.01528.
 4. Write a program that determines the distance to a lightning strike based on
 the time elapsed between the flash and the sound of thunder. The speed
@@ -38,10 +39,10 @@ overhead. Write a program that calculates the cost of an order.
 6. Two points in a plane are specified using the coordinates (x1,y1) and
 (x2,y2). Write a program that calculates the slope of a line through two
 (non-vertical) points entered by the user.
-slope= y2 - y1 x2 - x1
+slope= (y2 - y1) / (x2 - x1)
 7. Write a program that accepts two points (see previous problem) and determines
 the distance between them.
-distance= .j(x2- x1)2 + (y2- y1)2
+distance= √((x2- x1)^2 + (y2- y1)^2)
 
 ## Complete ONE of the following exercises: ##
 
