@@ -1,31 +1,18 @@
 # Project
 
-Name of the project
-
-# Project Outline #
-
-## Intro ##
-
--Description
--Overview of the project
-
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the project
-
-## Additional Resources ##
-
-Links to videos and examples that they can go to in order to help with the project beyong the lessons provided
+- Gain real life experience writing Python code
+- Have fun!
 
 # Project #
 
-What do they have to do. 
+This is the last project you will be required to do in Python for this course. This is a really awesome project that you get to code along with. There will be things that you aren't familiar with, do not stresss about understanding every aspect of code. Do your best to do it on your own first, then watch the video to make sure that you did it correctly. If you are struggling with it feel free to watch the videos from the start. It is important that you complete the whole project. This will likely be the hardest thing you do in the class. Good luck, let the teacher know if you need help.
+
+https://app.pluralsight.com/projects/building-baseball-data-visualizations-with-python
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+This project is worth 20 points. Completing every step of the project course will gain you all the points available.
 
-## Recap ##
-
-TLDR of the Project
 

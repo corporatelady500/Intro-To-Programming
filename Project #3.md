@@ -1,31 +1,20 @@
 # Project
 
-Name of the project
-
-# Project Outline #
-
-## Intro ##
-
--Description
--Overview of the project
-
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the project
-
-## Additional Resources ##
-
-Links to videos and examples that they can go to in order to help with the project beyong the lessons provided
+- Gain an advanced understanding of graphs
+- Be able to think through a problem as a whole
 
 # Project #
 
-What do they have to do. 
+This project is going to built off of the project in unit 2. Your project is to build a graph to represent the data that you gatherered about a students progress in the second unit. 
+
+An example would be a bar graph for each week that a student is in the class. Show how many assignments the student is able to accomplish in a week. 
+Another example would be a coordinate system that shows the progress of the student. Starting at 0 with a line to their current progress and progress along the way at week increments.
+You are free to think of your own example if you'd like.
 
 # Rubric #
 
-How is it graded? How do they know when it's done
+This project is worth 20 points. You will be awarded points based on completion and accuracy of your program. 
 
-## Recap ##
-
-TLDR of the Project
 
