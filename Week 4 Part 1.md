@@ -28,14 +28,16 @@ Today we are covering functions. A function is a way to repeat code without writ
 
 Read Pages 175-183
 
+Code along with the book, you will be asked to turn in the Happy Birthday functions and the functions for the graph.
+
+#Writte a parargrraph on importance of functions.#
+
 
 
 # Assignment #
 
-Link to the Google collaborator for the assignment
+For this assignment please include the exercises that you did in the book for the pages in this lesson.
 
-Example of how to do get the assignment and create their own
-
-Instructions on how to turn it in
+As well think of one of your favorite songs. One that has a chorus. Write out print statements for each line in the song. Then look back and see how you can simplify it using functions. Turn in your song example with the exercises above.s
 
 

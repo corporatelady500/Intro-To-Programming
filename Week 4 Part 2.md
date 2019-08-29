@@ -26,7 +26,9 @@ Little dictionary of key terms and their meanings
 
 # Lesson #
 
-Subject Matter. What they need to know
+Read pages 183-202
+
+	
 
 # Assignment #
 
