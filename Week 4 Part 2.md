@@ -6,18 +6,10 @@ Python Programming an Introduction to Computer Science by John Zelle. Third Edit
 
 Chapter 6.4-6.7
 
-## Intro ##
-
--Description
--Overview of what will be taught
-
 ## Learning Outcomes ##
 
-Bulletted list of things the student can expect to learn from the lesson
-
-## Vocabulary ##
-
-Little dictionary of key terms and their meanings
+- Be able to return from a function
+- Be able to explain when each line of code is being run and why
 
 ## Additional Resources ##
 
@@ -28,13 +20,18 @@ Little dictionary of key terms and their meanings
 
 Read pages 183-202
 
+Please code along and do all of the coding that the book does in the second half of the chapter.
+
+In the end of this chapter we learned how to do return statements, and the order that the code is run in. It's important to understand when what line of code is getting run when. If your project breaks and you need to debug it's a lot easier if you have a firm understanding on when each line of code is getting run. Make sure to pay close attention to that on page 185-186.
+
+This lesson marks the end of learning new programming fundamentals in Python. We've covered enough that you should be feeling competent in some basic fundamentals. Note that we have only covered half of the book, I would encourage you to keep learning and to keep following along in the book. Just like with learning anything new if you don't practice you lose it. Keep working on exercises and learning new programming things. This class isn't the end of the road, there is still a lot for you to learn if you want to become a full time programmer.
 	
 
 # Assignment #
 
-Link to the google collaborator for the assignment
+For your assingment please turn in the code that you wrote along with the book in this lesson.
 
-Example of how to do get the assignment and create their own
+The second part of your assignment is to go back to your song program that you wrote in the last lesson. Convert all of your functions so that they return a string. In the main() do all of your print statements.
 
-Instructions on how to turn it in
+
 
