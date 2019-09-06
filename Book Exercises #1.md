@@ -58,6 +58,6 @@ interactive programs in later chapters.
 
 # Rubric #
 
-Each question is worth 3 points, giving a total of 15 
+Each question is worth 300 points, giving a total of 1500 
 
 
